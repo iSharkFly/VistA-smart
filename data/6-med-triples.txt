@@ -1,0 +1,42 @@
+nodeID:251667904^dcterms:title^ATORVASTATIN TAB
+nodeID:251667904^rdf:type^sp:CodedValue
+nodeID:251667904^sp:code^rxnorm:617314
+nodeID:482950547^sp:unit^UNKNOWN
+nodeID:482950547^sp:value^0
+nodeID:513189765^sp:ValueAndUnit^nodeID:577056569
+nodeID:528278275^sp:unit^ mg Tab| 1  Add'l Sig
+nodeID:528278275^sp:value^0
+nodeID:577056569^sp:unit^Oral
+nodeID:577056569^sp:value^Select Frequency
+nodeID:718165755^sp:ValueAndUnit^nodeID:528278275
+nodeID:742808564^sp:ValueAndUnit^nodeID:993436766
+nodeID:743714867^sp:ValueAndUnit^nodeID:482950547
+nodeID:785423494^dcterms:title^WARFARIN 3MG TAB
+nodeID:785423494^rdf:type^sp:CodedValue
+nodeID:785423494^sp:code^rxnorm:855320
+nodeID:993436766^sp:unit^by mouth
+nodeID:993436766^sp:value^DAILY
+rxnorm:617314^dcterms:identifier^617314
+rxnorm:617314^dcterms:title^ATORVASTATIN TAB
+rxnorm:617314^rdf:type^http://smartplatforms.org/terms/codes/RxNorm_Semantic
+rxnorm:617314^rdf:type^sp:Code
+rxnorm:617314^sp:system^http://purl.bioontology.org/ontology/RXNORM/
+rxnorm:855320^dcterms:identifier^855320
+rxnorm:855320^dcterms:title^WARFARIN 3MG TAB
+rxnorm:855320^rdf:type^http://smartplatforms.org/terms/codes/RxNorm_Semantic
+rxnorm:855320^rdf:type^sp:Code
+rxnorm:855320^sp:system^http://purl.bioontology.org/ontology/RXNORM/
+vistaSmart:6/med/12595-3110429.123852^rdf:type^sp:Medication
+vistaSmart:6/med/12595-3110429.123852^sp:belongsTo^vistaSmart:6/med
+vistaSmart:6/med/12595-3110429.123852^sp:drugName^nodeID:251667904
+vistaSmart:6/med/12595-3110429.123852^sp:frequency^nodeID:513189765
+vistaSmart:6/med/12595-3110429.123852^sp:instructions^ 1  Add'l Sig BY Oral Select Frequency
+vistaSmart:6/med/12595-3110429.123852^sp:quantity^nodeID:718165755
+vistaSmart:6/med/12595-3110429.123852^sp:startDate^2011-4-29
+vistaSmart:6/med/4659-3110622.165848^rdf:type^sp:Medication
+vistaSmart:6/med/4659-3110622.165848^sp:belongsTo^vistaSmart:6/med
+vistaSmart:6/med/4659-3110622.165848^sp:drugName^nodeID:785423494
+vistaSmart:6/med/4659-3110622.165848^sp:frequency^nodeID:742808564
+vistaSmart:6/med/4659-3110622.165848^sp:instructions^ 1  tablet BY by mouth DAILY
+vistaSmart:6/med/4659-3110622.165848^sp:quantity^nodeID:743714867
+vistaSmart:6/med/4659-3110622.165848^sp:startDate^2011-6-22

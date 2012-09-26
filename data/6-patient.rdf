@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="iDPsDPss635992783">
+<rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Tel"/>
+<value xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#">333-333-3334</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss675298425">
+<rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Home"/>
+<locality xmlns="http://www.w3.org/2006/vcard/ns#">BIXBY</locality>
+<postal-code xmlns="http://www.w3.org/2006/vcard/ns#">74008</postal-code>
+<region xmlns="http://www.w3.org/2006/vcard/ns#">OKLAHOMA</region>
+<street-address xmlns="http://www.w3.org/2006/vcard/ns#">635 Big Sky Ln</street-address>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss769124988">
+<identifier xmlns="http://purl.org/dc/terms/">6</identifier>
+<title xmlns="http://purl.org/dc/terms/">VistA Patient Record 6</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#">VistA Patient Record</system>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss960163516">
+<rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Name"/>
+<additional-name xmlns="http://www.w3.org/2006/vcard/ns#">RYAN</additional-name>
+<family-name xmlns="http://www.w3.org/2006/vcard/ns#">ALLEN</family-name>
+<given-name xmlns="http://www.w3.org/2006/vcard/ns#">JASON</given-name>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/6/patient">
+<gender xmlns="http://xmlns.com/foaf/0.1/">male</gender>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Demographics"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/6/patient"/>
+<medicalRecordNumber xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss769124988"/>
+<adr xmlns="http://www.w3.org/2006/vcard/ns#" rdf:nodeID="iDPsDPss675298425"/>
+<bday xmlns="http://www.w3.org/2006/vcard/ns#">1953-10-16</bday>
+<n xmlns="http://www.w3.org/2006/vcard/ns#" rdf:nodeID="iDPsDPss960163516"/>
+<tel xmlns="http://www.w3.org/2006/vcard/ns#" rdf:nodeID="iDPsDPss635992783"/>
+</rdf:Description>
+</rdf:RDF>

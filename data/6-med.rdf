@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="iDPsDPss282620764">
+<ValueAndUnit xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss771302706"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss604981601">
+<title xmlns="http://purl.org/dc/terms/">ATORVASTATIN TAB</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/RXNORM/617314"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss712371360">
+<ValueAndUnit xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss939328262"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss771302706">
+<unit xmlns="http://smartplatforms.org/terms#">UNKNOWN</unit>
+<value xmlns="http://smartplatforms.org/terms#">0</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss774053366">
+<unit xmlns="http://smartplatforms.org/terms#">Oral</unit>
+<value xmlns="http://smartplatforms.org/terms#">Select Frequency</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss862386186">
+<ValueAndUnit xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss774053366"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss898261289">
+<ValueAndUnit xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss949535912"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss939328262">
+<unit xmlns="http://smartplatforms.org/terms#"> mg Tab| 1  Add'l Sig</unit>
+<value xmlns="http://smartplatforms.org/terms#">0</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss949535912">
+<unit xmlns="http://smartplatforms.org/terms#">by mouth</unit>
+<value xmlns="http://smartplatforms.org/terms#">DAILY</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss998719579">
+<title xmlns="http://purl.org/dc/terms/">WARFARIN 3MG TAB</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/RXNORM/855320"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/617314">
+<identifier xmlns="http://purl.org/dc/terms/">617314</identifier>
+<title xmlns="http://purl.org/dc/terms/">ATORVASTATIN TAB</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/RXNORM/"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/855320">
+<identifier xmlns="http://purl.org/dc/terms/">855320</identifier>
+<title xmlns="http://purl.org/dc/terms/">WARFARIN 3MG TAB</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/RXNORM/"/>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/6/med/12595-3110429.123852">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/6/med"/>
+<drugName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss604981601"/>
+<frequency xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss862386186"/>
+<instructions xmlns="http://smartplatforms.org/terms#"> 1  Add'l Sig BY Oral Select Frequency</instructions>
+<quantity xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss712371360"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2011-4-29</startDate>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/6/med/4659-3110622.165848">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/6/med"/>
+<drugName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss998719579"/>
+<frequency xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss898261289"/>
+<instructions xmlns="http://smartplatforms.org/terms#"> 1  tablet BY by mouth DAILY</instructions>
+<quantity xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss282620764"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2011-6-22</startDate>
+</rdf:Description>
+</rdf:RDF>

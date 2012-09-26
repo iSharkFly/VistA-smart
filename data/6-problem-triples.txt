@@ -1,0 +1,22 @@
+icd9:486.^dcterms:identifier^486.
+icd9:486.^dcterms:title^Pneumonia
+icd9:486.^rdf:type^sp:Code
+icd9:486.^sp:system^http://purl.bioontology.org/ontology/ICD9
+icd9:496.^dcterms:identifier^496.
+icd9:496.^dcterms:title^Chronic Obstructive Pulmonary Disease
+icd9:496.^rdf:type^sp:Code
+icd9:496.^sp:system^http://purl.bioontology.org/ontology/ICD9
+nodeID:114561837^dcterms:title^Pneumonia
+nodeID:114561837^rdf:type^sp:CodedValue
+nodeID:114561837^sp:code^icd9:486.
+nodeID:427959727^dcterms:title^Chronic Obstructive Pulmonary Disease
+nodeID:427959727^rdf:type^sp:CodedValue
+nodeID:427959727^sp:code^icd9:496.
+vistaSmart:6/problems/20586809954528225^rdf:type^sp:Problem
+vistaSmart:6/problems/20586809954528225^sp:belongsTo^vistaSmart:6/problems
+vistaSmart:6/problems/20586809954528225^sp:problemName^nodeID:427959727
+vistaSmart:6/problems/20586809954528225^sp:startDate^2011-05-04
+vistaSmart:6/problems/59957811696826321^rdf:type^sp:Problem
+vistaSmart:6/problems/59957811696826321^sp:belongsTo^vistaSmart:6/problems
+vistaSmart:6/problems/59957811696826321^sp:problemName^nodeID:114561837
+vistaSmart:6/problems/59957811696826321^sp:startDate^2011-05-04

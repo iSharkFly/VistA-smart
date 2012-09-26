@@ -1,0 +1,80 @@
+loinc:2085-9^dcterms:identifier^2085-9
+loinc:2085-9^dcterms:title^HDL CHOLESTEROL
+loinc:2085-9^rdf:type^sp:Code
+loinc:2085-9^sp:system^http://loinc.org/codes/
+loinc:2093-3^dcterms:identifier^2093-3
+loinc:2093-3^dcterms:title^CHOLESTEROL
+loinc:2093-3^rdf:type^sp:Code
+loinc:2093-3^sp:system^http://loinc.org/codes/
+loinc:30522-7^dcterms:identifier^30522-7
+loinc:30522-7^dcterms:title^HIGH-SENSIVITY C-REACTIVE PROTEIN
+loinc:30522-7^rdf:type^sp:Code
+loinc:30522-7^sp:system^http://loinc.org/codes/
+nodeID:032215694^rdf:type^sp:ValueAndUnit
+nodeID:032215694^sp:unit^HDL CHOLESTEROL
+nodeID:032215694^sp:value^45
+nodeID:063813166^dcterms:title^CHOLESTEROL
+nodeID:063813166^rdf:type^sp:CodedValue
+nodeID:063813166^sp:code^loinc:2093-3
+nodeID:158083727^rdf:type^sp:Attribution
+nodeID:158083727^sp:startDate^2012-04-25
+nodeID:274677128^rdf:type^sp:ValueAndUnit
+nodeID:274677128^sp:unit^mg/dL
+nodeID:274677128^sp:value^120 
+nodeID:508295096^rdf:type^sp:Attribution
+nodeID:508295096^sp:startDate^2012-04-25
+nodeID:540929713^rdf:type^sp:Attribution
+nodeID:540929713^sp:startDate^2012-04-25
+nodeID:572993687^rdf:type^sp:ValueAndUnit
+nodeID:572993687^sp:unit^mg/L
+nodeID:572993687^sp:value^0 
+nodeID:603258303^rdf:type^sp:ValueAndUnit
+nodeID:603258303^sp:unit^mg/dL
+nodeID:603258303^sp:value^163
+nodeID:606788887^rdf:type^sp:ValueRange
+nodeID:606788887^sp:maximum^nodeID:890032220
+nodeID:606788887^sp:minimum^nodeID:274677128
+nodeID:616271691^rdf:type^sp:QuantitativeResult
+nodeID:616271691^sp:normalRange^nodeID:606788887
+nodeID:616271691^sp:valueAndUnit^nodeID:603258303
+nodeID:639795394^rdf:type^sp:ValueRange
+nodeID:639795394^sp:maximum^nodeID:832047616
+nodeID:639795394^sp:minimum^nodeID:572993687
+nodeID:659053466^dcterms:title^HDL CHOLESTEROL
+nodeID:659053466^rdf:type^sp:CodedValue
+nodeID:659053466^sp:code^loinc:2085-9
+nodeID:716700164^rdf:type^sp:ValueAndUnit
+nodeID:716700164^sp:unit^mg/L
+nodeID:716700164^sp:value^2.9
+nodeID:832047616^rdf:type^sp:ValueAndUnit
+nodeID:832047616^sp:unit^mg/L
+nodeID:832047616^sp:value^ 3
+nodeID:875882234^rdf:type^sp:QuantitativeResult
+nodeID:875882234^sp:normalRange^nodeID:639795394
+nodeID:875882234^sp:valueAndUnit^nodeID:716700164
+nodeID:890032220^rdf:type^sp:ValueAndUnit
+nodeID:890032220^sp:unit^mg/dL
+nodeID:890032220^sp:value^ 200
+nodeID:909597545^dcterms:title^HIGH-SENSIVITY C-REACTIVE PROTEIN
+nodeID:909597545^rdf:type^sp:CodedValue
+nodeID:909597545^sp:code^loinc:30522-7
+nodeID:944122350^rdf:type^sp:QuantitativeResult
+nodeID:944122350^sp:valueAndUnit^nodeID:032215694
+vistaSmart:6/lab_results/18050754592291778^rdf:type^sp:LabResult
+vistaSmart:6/lab_results/18050754592291778^sp:belongsTo^vistaSmart:6/lab_results
+vistaSmart:6/lab_results/18050754592291778^sp:labName^nodeID:063813166
+vistaSmart:6/lab_results/18050754592291778^sp:narrativeResult^nodeID:600844888
+vistaSmart:6/lab_results/18050754592291778^sp:quantitativeResult^nodeID:616271691
+vistaSmart:6/lab_results/18050754592291778^sp:specimenCollected^nodeID:158083727
+vistaSmart:6/lab_results/64750239894166499^rdf:type^sp:LabResult
+vistaSmart:6/lab_results/64750239894166499^sp:belongsTo^vistaSmart:6/lab_results
+vistaSmart:6/lab_results/64750239894166499^sp:labName^nodeID:659053466
+vistaSmart:6/lab_results/64750239894166499^sp:narrativeResult^nodeID:505088543
+vistaSmart:6/lab_results/64750239894166499^sp:quantitativeResult^nodeID:944122350
+vistaSmart:6/lab_results/64750239894166499^sp:specimenCollected^nodeID:540929713
+vistaSmart:6/lab_results/89548426370765804^rdf:type^sp:LabResult
+vistaSmart:6/lab_results/89548426370765804^sp:belongsTo^vistaSmart:6/lab_results
+vistaSmart:6/lab_results/89548426370765804^sp:labName^nodeID:909597545
+vistaSmart:6/lab_results/89548426370765804^sp:narrativeResult^nodeID:095171452
+vistaSmart:6/lab_results/89548426370765804^sp:quantitativeResult^nodeID:875882234
+vistaSmart:6/lab_results/89548426370765804^sp:specimenCollected^nodeID:508295096

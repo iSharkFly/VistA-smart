@@ -1,0 +1,23 @@
+nodeID:163928854^rdf:type^v:Home
+nodeID:163928854^v:locality^BIXBY
+nodeID:163928854^v:postal-code^74008
+nodeID:163928854^v:region^OKLAHOMA
+nodeID:163928854^v:street-address^635 Big Sky Ln
+nodeID:627173842^rdf:type^v:Name
+nodeID:627173842^v:additional-name^RYAN
+nodeID:627173842^v:family-name^ALLEN
+nodeID:627173842^v:given-name^JASON
+nodeID:825405422^dcterms:identifier^6
+nodeID:825405422^dcterms:title^VistA Patient Record 6
+nodeID:825405422^rdf:type^sp:Code
+nodeID:825405422^sp:system^VistA Patient Record
+nodeID:835095016^rdf:type^v:Tel
+nodeID:835095016^rdf:value^333-333-3334
+vistaSmart:6/patient^foaf:gender^male
+vistaSmart:6/patient^rdf:type^sp:Demographics
+vistaSmart:6/patient^sp:belongsTo^vistaSmart:6/patient
+vistaSmart:6/patient^sp:medicalRecordNumber^nodeID:825405422
+vistaSmart:6/patient^v:adr^nodeID:163928854
+vistaSmart:6/patient^v:bday^1953-10-16
+vistaSmart:6/patient^v:n^nodeID:627173842
+vistaSmart:6/patient^v:tel^nodeID:835095016

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/LNC/2085-9">
+<identifier xmlns="http://purl.org/dc/terms/">2085-9</identifier>
+<title xmlns="http://purl.org/dc/terms/">HDL CHOLESTEROL</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://loinc.org/codes/"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/LNC/2093-3">
+<identifier xmlns="http://purl.org/dc/terms/">2093-3</identifier>
+<title xmlns="http://purl.org/dc/terms/">CHOLESTEROL</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://loinc.org/codes/"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/LNC/30522-7">
+<identifier xmlns="http://purl.org/dc/terms/">30522-7</identifier>
+<title xmlns="http://purl.org/dc/terms/">HIGH-SENSIVITY C-REACTIVE PROTEIN</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://loinc.org/codes/"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss100425785">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueRange"/>
+<maximum xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss220854950"/>
+<minimum xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss816211098"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss183485436">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+<unit xmlns="http://smartplatforms.org/terms#">mg/dL</unit>
+<value xmlns="http://smartplatforms.org/terms#">120 </value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss212335104">
+<title xmlns="http://purl.org/dc/terms/">HDL CHOLESTEROL</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/LNC/2085-9"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss215172665">
+<title xmlns="http://purl.org/dc/terms/">HIGH-SENSIVITY C-REACTIVE PROTEIN</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/LNC/30522-7"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss220854950">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+<unit xmlns="http://smartplatforms.org/terms#">mg/L</unit>
+<value xmlns="http://smartplatforms.org/terms#"> 3</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss260660952">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#QuantitativeResult"/>
+<normalRange xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss805024399"/>
+<valueAndUnit xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss864181975"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss312599313">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Attribution"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2012-04-25</startDate>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss365899243">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#QuantitativeResult"/>
+<normalRange xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss100425785"/>
+<valueAndUnit xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss963601236"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss536704371">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+<unit xmlns="http://smartplatforms.org/terms#">mg/dL</unit>
+<value xmlns="http://smartplatforms.org/terms#"> 200</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss558098398">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#QuantitativeResult"/>
+<valueAndUnit xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss912964037"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss577288342">
+<title xmlns="http://purl.org/dc/terms/">CHOLESTEROL</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/LNC/2093-3"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss684965313">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Attribution"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2012-04-25</startDate>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss805024399">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueRange"/>
+<maximum xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss536704371"/>
+<minimum xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss183485436"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss816211098">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+<unit xmlns="http://smartplatforms.org/terms#">mg/L</unit>
+<value xmlns="http://smartplatforms.org/terms#">0 </value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss864181975">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+<unit xmlns="http://smartplatforms.org/terms#">mg/dL</unit>
+<value xmlns="http://smartplatforms.org/terms#">163</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss901763418">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Attribution"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2012-04-25</startDate>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss912964037">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+<unit xmlns="http://smartplatforms.org/terms#">HDL CHOLESTEROL</unit>
+<value xmlns="http://smartplatforms.org/terms#">45</value>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss963601236">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+<unit xmlns="http://smartplatforms.org/terms#">mg/L</unit>
+<value xmlns="http://smartplatforms.org/terms#">2.9</value>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/6/lab_results/08861402014093539">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#LabResult"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/6/lab_results"/>
+<labName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss212335104"/>
+<narrativeResult xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss699635080"/>
+<quantitativeResult xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss558098398"/>
+<specimenCollected xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss684965313"/>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/6/lab_results/10767060682350514">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#LabResult"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/6/lab_results"/>
+<labName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss577288342"/>
+<narrativeResult xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss584590240"/>
+<quantitativeResult xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss260660952"/>
+<specimenCollected xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss312599313"/>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/6/lab_results/46279775966003159">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#LabResult"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/6/lab_results"/>
+<labName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss215172665"/>
+<narrativeResult xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss789205730"/>
+<quantitativeResult xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss365899243"/>
+<specimenCollected xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss901763418"/>
+</rdf:Description>
+</rdf:RDF>

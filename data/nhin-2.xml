@@ -1,0 +1,272 @@
+<results total='13' >
+<patient>
+<address streetLine1='635 Big Sky Ln' city='BIXBY' stateProvince='OKLAHOMA' postalCode='74008' />
+<bid value='A1117' />
+<dob value='2531016' />
+<exposures>
+<exposure value='AO' />
+</exposures>
+<facilities>
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+</facilities>
+<familyName value='ALLEN' />
+<fullName value='ALLEN,JASON RYAN' />
+<gender value='M' />
+<givenNames value='JASON RYAN' />
+<id value='6' />
+<lrdfn value='49' />
+<maritalStatus value='N' />
+<religion value='6' />
+<sc value='0' />
+<ssn value='111111117' />
+<supports>
+<support contactType='ECON' name='ROOT,JOANNE' relationship='MOTHER' >
+<address streetLine1='635 Big Sky Ln' city='BIXBY' stateProvince='OKLAHOMA' postalCode='74008' />
+<telecomList>
+<telecom usageType='H' value='333-333-3334' />
+</telecomList>
+</support>
+<support contactType='NOK' name='ROOT,JOANNE' relationship='MOTHER' >
+<address streetLine1='635 Big Sky Ln' city='BIXBY' stateProvince='OKLAHOMA' postalCode='74008' />
+<telecomList>
+<telecom usageType='H' value='333-333-3334' />
+</telecomList>
+</support>
+</supports>
+<telecomList>
+<telecom usageType='H' value='333-333-3334' />
+</telecomList>
+<veteran value='0' />
+</patient>
+<allergy>
+<adverseEventType value='D' />
+<comments>
+<comment id='1' entered='3110622.163636' enteredBy='KING,MATTHEW MICHAEL' commentType='O' commentText='active ' />
+</comments>
+<drugIngredients>
+<drugIngredient name='CEPHALEXIN' vuid='4018891' />
+</drugIngredients>
+<entered value='3110622.1636' />
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+<id value='51' />
+<localCode value='1495;PS(50.416,' />
+<mechanism value='ALLERGY' />
+<name value='CEPHALEXIN' />
+<reactions>
+<reaction name='HIVES' />
+</reactions>
+<severity value='SEVERE' />
+<source value='O' />
+<vuid value='4018891' />
+</allergy>
+<problem>
+<entered value='3110504' />
+<facility code='100' name='VOE OFFICE INSTITUTION OLD' />
+<icd value='486.' />
+<id value='44' />
+<location value='ZZ*DR OFFICE' />
+<name value='Pneumonia' />
+<provider code='76' name='VAN NESS,NANCY' />
+<removed value='0' />
+<sc value='0' />
+<status value='A' />
+<unverified value='0' />
+<updated value='3110504' />
+</problem>
+<problem>
+<entered value='3110504' />
+<facility code='100' name='VOE OFFICE INSTITUTION OLD' />
+<icd value='496.' />
+<id value='45' />
+<location value='ZZ*DR OFFICE' />
+<name value='Chronic Obstructive Pulmonary Disease' />
+<provider code='76' name='VAN NESS,NANCY' />
+<removed value='0' />
+<sc value='0' />
+<status value='A' />
+<unverified value='0' />
+<updated value='3110504' />
+</problem>
+<lab>
+<collected value='3120425.231037' />
+<comment xml:space='preserve'>GPLTEST SMART Report Released Date/Time: Apr 25, 2012@23:11</comment>
+<facility code='100' name='VOE OFFICE INSTITUTION OLD' />
+<groupName value='CH 0425 5' />
+<id value='CH;6879573.768963;67008' />
+<labOrderID value='118' />
+<localName value='HDLCHLS' />
+<loinc value='2085-9' />
+<orderID value='855' />
+<result value='45' />
+<resulted value='3120425.231116' />
+<sample value='SERUM' />
+<specimen code='0X500' name='SERUM' />
+<status value='completed' />
+<test value='HDL CHOLESTEROL' />
+<type value='CH' />
+<vuid value='4662693' />
+</lab>
+<lab>
+<collected value='3120425.230609' />
+<comment xml:space='preserve'>~For Test: CHOLESTEROL ~GPLTEST SMART Report Released Date/Time: Apr 25, 2012@23:07</comment>
+<facility code='100' name='VOE OFFICE INSTITUTION OLD' />
+<groupName value='CH 0425 3' />
+<high value=' 200' />
+<id value='CH;6879573.769391;12' />
+<labOrderID value='103' />
+<localName value='CHOL' />
+<loinc value='2093-3' />
+<low value='120 ' />
+<orderID value='852' />
+<result value='163' />
+<resulted value='3120425.230719' />
+<sample value='SERUM' />
+<specimen code='0X500' name='SERUM' />
+<status value='completed' />
+<test value='CHOLESTEROL' />
+<type value='CH' />
+<units value='mg/dL' />
+<vuid value='4662777' />
+</lab>
+<lab>
+<collected value='3120425.223729' />
+<comment xml:space='preserve'>~For Test: HIGH-SENSIVITY C-REACTIVE PROTEIN ~GPLTEST SMART Report Released Date/Time: Apr 25, 2012@22:42</comment>
+<facility code='100' name='VOE OFFICE INSTITUTION OLD' />
+<groupName value='CH 0425 1' />
+<high value=' 3' />
+<id value='CH;6879573.776271;1006' />
+<labOrderID value='94' />
+<localName value='HS-CRP' />
+<loinc value='30522-7' />
+<low value='0 ' />
+<orderID value='850' />
+<result value='2.9' />
+<resulted value='3120425.224231' />
+<sample value='SERUM' />
+<specimen code='0X500' name='SERUM' />
+<status value='completed' />
+<test value='HIGH-SENSIVITY C-REACTIVE PROTEIN' />
+<type value='CH' />
+<units value='mg/L' />
+<vuid value='4673029' />
+</lab>
+<med>
+<doses>
+<dose dose='0' units=' mg Tab| 1  Add&apos;l Sig' route='Oral' schedule='Select Frequency' />
+</doses>
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+<form value='TAB' />
+<id value='1N;O' />
+<name value='ATORVASTATIN TAB' />
+<ordered value='3110429.123852' />
+<orderingProvider code='77' name='LILLY,GEORGE' />
+<products>
+<product code='94208' name='ATORVASTATIN 10MG' role='D' >
+<class code='ANTILIPEMIC AGENTS' />
+<vaGeneric code='3382' name='ATORVASTATIN' vuid='4024041' />
+<vaProduct code='12595' name='ATORVASTATIN CA 10MG TAB' vuid='4012960' />
+</product>
+</products>
+<sig xml:space='preserve'>Lipitor 10 mg Tab| 1  Add&apos;l Sig BY Oral Select Frequency</sig>
+<start value='3110429.1145' />
+<status value='active' />
+<stop value='3110504.13373' />
+<type value='OTC' />
+<vaType value='N' />
+</med>
+<med>
+<doses>
+<dose dose='0' units=' mg Tab| 1  tablet' route='by mouth' schedule='as directed' />
+</doses>
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+<form value='CAP,EC' />
+<id value='2N;O' />
+<name value='FREE TXT DRUG CAP,EC' />
+<ordered value='3110504.18382' />
+<orderingProvider code='76' name='VAN NESS,NANCY' />
+<sig xml:space='preserve'>Azithromycin 250 mg Tab| 1  tablet BY by mouth as directed</sig>
+<start value='3110504.1733' />
+<status value='active' />
+<type value='OTC' />
+<vaType value='N' />
+</med>
+<med>
+<doses>
+<dose dose='0' units='.' route='inhale' schedule='as directed' />
+</doses>
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+<form value='CAP,EC' />
+<id value='3N;O' />
+<name value='FREE TXT DRUG CAP,EC' />
+<ordered value='3110504.18501' />
+<orderingProvider code='76' name='VAN NESS,NANCY' />
+<sig xml:space='preserve'>Albuterol Sulfate 2.5 mg/3 mL (0.083 %) Neb Solution| 1  mL BY inhale as directed</sig>
+<start value='3110504.1755' />
+<status value='active' />
+<type value='OTC' />
+<vaType value='N' />
+</med>
+<med>
+<doses>
+<dose dose='0' route='inhale' schedule='as directed' />
+</doses>
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+<form value='CAP,EC' />
+<id value='4N;O' />
+<name value='FREE TXT DRUG CAP,EC' />
+<ordered value='3110504.190648' />
+<orderingProvider code='76' name='VAN NESS,NANCY' />
+<sig xml:space='preserve'>Atrovent HFA 17 mcg/Actuation Aerosol Inhaler| 1  puff BY inhale as directed</sig>
+<start value='3110504.1811' />
+<status value='active' />
+<type value='OTC' />
+<vaType value='N' />
+</med>
+<med>
+<doses>
+<dose dose='0' route='by mouth' schedule='DAILY' />
+</doses>
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+<form value='TAB' />
+<id value='5N;O' />
+<name value='WARFARIN 3MG TAB' />
+<ordered value='3110622.165848' />
+<orderingProvider code='63' name='KING,MATTHEW MICHAEL' />
+<products>
+<product code='94514' name='WARFARIN 3MG' role='D' >
+<class code='ANTICOAGULANTS' />
+<vaGeneric code='865' name='WARFARIN' vuid='4019972' />
+<vaProduct code='4659' name='WARFARIN NA 3MG TAB' vuid='4005206' />
+</product>
+</products>
+<sig xml:space='preserve'>Warfarin 3 mg Tab| 1  tablet BY by mouth DAILY</sig>
+<start value='3110622.160507' />
+<status value='active' />
+<type value='OTC' />
+<vaType value='N' />
+</med>
+<med>
+<doses>
+<dose dose='0' route='by mouth' schedule='DAILY' />
+</doses>
+<facility code='050' name='VOE OFFICE INSTITUTION' />
+<form value='TAB' />
+<id value='6N;O' />
+<name value='WARFARIN 3MG TAB' />
+<ordered value='3110622.165848' />
+<orderingProvider code='63' name='KING,MATTHEW MICHAEL' />
+<products>
+<product code='94514' name='WARFARIN 3MG' role='D' >
+<class code='ANTICOAGULANTS' />
+<vaGeneric code='865' name='WARFARIN' vuid='4019972' />
+<vaProduct code='4659' name='WARFARIN NA 3MG TAB' vuid='4005206' />
+</product>
+</products>
+<sig xml:space='preserve'>Warfarin 3 mg Tab| 1  tablet BY by mouth DAILY</sig>
+<start value='3110622.160548' />
+<status value='active' />
+<stop value='3110622.170517' />
+<type value='OTC' />
+<vaType value='N' />
+</med>
+</results>
