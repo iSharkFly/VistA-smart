@@ -1,153 +1,181 @@
-KIDS Distribution saved on Sep 26, 2012@04:21:57
-fixes to snomed lookup
-**KIDS**:C0S*1.0*0^
+KIDS Distribution saved on Sep 26, 2012@11:14:54
+VistA Smart Container
+**KIDS**:VISTA SMART CONTAINER 1.0^
 
 **INSTALL NAME**
-C0S*1.0*0
-"BLD",7929,0)
-C0S*1.0*0^^0^3120926^n
-"BLD",7929,4,0)
+VISTA SMART CONTAINER 1.0
+"BLD",8489,0)
+VISTA SMART CONTAINER 1.0^VISTA SMART CONTAINER^0^3120926^n
+"BLD",8489,1,0)
+^^1^1^3120926^
+"BLD",8489,1,1,0)
+Version 1.0
+"BLD",8489,4,0)
 ^9.64PA^^
-"BLD",7929,6.3)
-2
-"BLD",7929,"KRN",0)
+"BLD",8489,6.3)
+4
+"BLD",8489,"ABPKG")
+n
+"BLD",8489,"KRN",0)
 ^9.67PA^779.2^20
-"BLD",7929,"KRN",.4,0)
+"BLD",8489,"KRN",.4,0)
 .4
-"BLD",7929,"KRN",.401,0)
+"BLD",8489,"KRN",.401,0)
 .401
-"BLD",7929,"KRN",.402,0)
+"BLD",8489,"KRN",.402,0)
 .402
-"BLD",7929,"KRN",.403,0)
+"BLD",8489,"KRN",.403,0)
 .403
-"BLD",7929,"KRN",.5,0)
+"BLD",8489,"KRN",.5,0)
 .5
-"BLD",7929,"KRN",.84,0)
+"BLD",8489,"KRN",.84,0)
 .84
-"BLD",7929,"KRN",3.6,0)
+"BLD",8489,"KRN",3.6,0)
 3.6
-"BLD",7929,"KRN",3.8,0)
+"BLD",8489,"KRN",3.8,0)
 3.8
-"BLD",7929,"KRN",9.2,0)
+"BLD",8489,"KRN",9.2,0)
 9.2
-"BLD",7929,"KRN",9.8,0)
+"BLD",8489,"KRN",9.8,0)
 9.8
-"BLD",7929,"KRN",9.8,"NM",0)
+"BLD",8489,"KRN",9.8,"NM",0)
 ^9.68A^13^13
-"BLD",7929,"KRN",9.8,"NM",1,0)
+"BLD",8489,"KRN",9.8,"NM",1,0)
 C0SDEM^^0^B59022362
-"BLD",7929,"KRN",9.8,"NM",2,0)
+"BLD",8489,"KRN",9.8,"NM",2,0)
 C0SDOM^^0^B87367162
-"BLD",7929,"KRN",9.8,"NM",3,0)
+"BLD",8489,"KRN",9.8,"NM",3,0)
 C0SLAB^^0^B79265150
-"BLD",7929,"KRN",9.8,"NM",4,0)
+"BLD",8489,"KRN",9.8,"NM",4,0)
 C0SMART^^0^B2907401
-"BLD",7929,"KRN",9.8,"NM",5,0)
+"BLD",8489,"KRN",9.8,"NM",5,0)
 C0SMED^^0^B40719083
-"BLD",7929,"KRN",9.8,"NM",6,0)
+"BLD",8489,"KRN",9.8,"NM",6,0)
 C0SMXMLB^^0^B12189644
-"BLD",7929,"KRN",9.8,"NM",7,0)
+"BLD",8489,"KRN",9.8,"NM",7,0)
 C0SNHIN^^0^B88600644
-"BLD",7929,"KRN",9.8,"NM",8,0)
+"BLD",8489,"KRN",9.8,"NM",8,0)
 C0SNHINV^^0^B15736572
-"BLD",7929,"KRN",9.8,"NM",9,0)
+"BLD",8489,"KRN",9.8,"NM",9,0)
 C0SPROB^^0^B49669400
-"BLD",7929,"KRN",9.8,"NM",10,0)
+"BLD",8489,"KRN",9.8,"NM",10,0)
 C0SPROB2^^0^B67594874
-"BLD",7929,"KRN",9.8,"NM",11,0)
+"BLD",8489,"KRN",9.8,"NM",11,0)
 C0STBL^^0^B2535026
-"BLD",7929,"KRN",9.8,"NM",12,0)
+"BLD",8489,"KRN",9.8,"NM",12,0)
 C0SUTIL^^0^B1005502
-"BLD",7929,"KRN",9.8,"NM",13,0)
-C0SXPATH^^0^B521212541
-"BLD",7929,"KRN",9.8,"NM","B","C0SDEM",1)
+"BLD",8489,"KRN",9.8,"NM",13,0)
+C0SXPATH^^0^B521283143
+"BLD",8489,"KRN",9.8,"NM","B","C0SDEM",1)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SDOM",2)
+"BLD",8489,"KRN",9.8,"NM","B","C0SDOM",2)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SLAB",3)
+"BLD",8489,"KRN",9.8,"NM","B","C0SLAB",3)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SMART",4)
+"BLD",8489,"KRN",9.8,"NM","B","C0SMART",4)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SMED",5)
+"BLD",8489,"KRN",9.8,"NM","B","C0SMED",5)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SMXMLB",6)
+"BLD",8489,"KRN",9.8,"NM","B","C0SMXMLB",6)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SNHIN",7)
+"BLD",8489,"KRN",9.8,"NM","B","C0SNHIN",7)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SNHINV",8)
+"BLD",8489,"KRN",9.8,"NM","B","C0SNHINV",8)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SPROB",9)
+"BLD",8489,"KRN",9.8,"NM","B","C0SPROB",9)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SPROB2",10)
+"BLD",8489,"KRN",9.8,"NM","B","C0SPROB2",10)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0STBL",11)
+"BLD",8489,"KRN",9.8,"NM","B","C0STBL",11)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SUTIL",12)
+"BLD",8489,"KRN",9.8,"NM","B","C0SUTIL",12)
 
-"BLD",7929,"KRN",9.8,"NM","B","C0SXPATH",13)
+"BLD",8489,"KRN",9.8,"NM","B","C0SXPATH",13)
 
-"BLD",7929,"KRN",19,0)
+"BLD",8489,"KRN",19,0)
 19
-"BLD",7929,"KRN",19.1,0)
+"BLD",8489,"KRN",19.1,0)
 19.1
-"BLD",7929,"KRN",101,0)
+"BLD",8489,"KRN",101,0)
 101
-"BLD",7929,"KRN",409.61,0)
+"BLD",8489,"KRN",409.61,0)
 409.61
-"BLD",7929,"KRN",771,0)
+"BLD",8489,"KRN",771,0)
 771
-"BLD",7929,"KRN",779.2,0)
+"BLD",8489,"KRN",779.2,0)
 779.2
-"BLD",7929,"KRN",870,0)
+"BLD",8489,"KRN",870,0)
 870
-"BLD",7929,"KRN",8989.51,0)
+"BLD",8489,"KRN",8989.51,0)
 8989.51
-"BLD",7929,"KRN",8989.52,0)
+"BLD",8489,"KRN",8989.52,0)
 8989.52
-"BLD",7929,"KRN",8994,0)
+"BLD",8489,"KRN",8994,0)
 8994
-"BLD",7929,"KRN","B",.4,.4)
+"BLD",8489,"KRN","B",.4,.4)
 
-"BLD",7929,"KRN","B",.401,.401)
+"BLD",8489,"KRN","B",.401,.401)
 
-"BLD",7929,"KRN","B",.402,.402)
+"BLD",8489,"KRN","B",.402,.402)
 
-"BLD",7929,"KRN","B",.403,.403)
+"BLD",8489,"KRN","B",.403,.403)
 
-"BLD",7929,"KRN","B",.5,.5)
+"BLD",8489,"KRN","B",.5,.5)
 
-"BLD",7929,"KRN","B",.84,.84)
+"BLD",8489,"KRN","B",.84,.84)
 
-"BLD",7929,"KRN","B",3.6,3.6)
+"BLD",8489,"KRN","B",3.6,3.6)
 
-"BLD",7929,"KRN","B",3.8,3.8)
+"BLD",8489,"KRN","B",3.8,3.8)
 
-"BLD",7929,"KRN","B",9.2,9.2)
+"BLD",8489,"KRN","B",9.2,9.2)
 
-"BLD",7929,"KRN","B",9.8,9.8)
+"BLD",8489,"KRN","B",9.8,9.8)
 
-"BLD",7929,"KRN","B",19,19)
+"BLD",8489,"KRN","B",19,19)
 
-"BLD",7929,"KRN","B",19.1,19.1)
+"BLD",8489,"KRN","B",19.1,19.1)
 
-"BLD",7929,"KRN","B",101,101)
+"BLD",8489,"KRN","B",101,101)
 
-"BLD",7929,"KRN","B",409.61,409.61)
+"BLD",8489,"KRN","B",409.61,409.61)
 
-"BLD",7929,"KRN","B",771,771)
+"BLD",8489,"KRN","B",771,771)
 
-"BLD",7929,"KRN","B",779.2,779.2)
+"BLD",8489,"KRN","B",779.2,779.2)
 
-"BLD",7929,"KRN","B",870,870)
+"BLD",8489,"KRN","B",870,870)
 
-"BLD",7929,"KRN","B",8989.51,8989.51)
+"BLD",8489,"KRN","B",8989.51,8989.51)
 
-"BLD",7929,"KRN","B",8989.52,8989.52)
+"BLD",8489,"KRN","B",8989.52,8989.52)
 
-"BLD",7929,"KRN","B",8994,8994)
+"BLD",8489,"KRN","B",8994,8994)
 
+"BLD",8489,"QUES",0)
+^9.62^^
+"BLD",8489,"REQB",0)
+^9.611^^
 "MBREQ")
 0
+"PKG",218,-1)
+1^1
+"PKG",218,0)
+VISTA SMART CONTAINER^C0S^RDF Server for Harvard's Smart Data Model
+"PKG",218,20,0)
+^9.402P^^
+"PKG",218,22,0)
+^9.49I^1^1
+"PKG",218,22,1,0)
+1.0^3120926
+"PKG",218,22,1,1,0)
+^^1^1^3120926
+"PKG",218,22,1,1,1,0)
+Version 1.0
+"PKG",218,"DEV")
+GPL/WV
+"PKG",218,"VERSION")
+1.0
 "QUES","XPF1",0)
 Y
 "QUES","XPF1","??")
@@ -225,7 +253,7 @@ D XPZ2^XPDIQ
 "RTN","C0SDEM",1,0)
 C0SDEM   ; GPL - Smart Demographics Processing ;2/22/12  17:05
 "RTN","C0SDEM",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SDEM",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SDEM",4,0)
@@ -805,7 +833,7 @@ AGES ; LIST ALL PATIENTS AND THEIR AGES
 "RTN","C0SDOM",1,0)
 C0SDOM   ; GPL - Smart Container - DOM PROCESSING ROUTINES ;6/6/11  17:05
 "RTN","C0SDOM",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SDOM",3,0)
  ;Copyright 2011,2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SDOM",4,0)
@@ -1447,7 +1475,7 @@ NEWDOM() ; extrinsic which creates a new DOM and returns the HANDLE
 "RTN","C0SLAB",1,0)
 C0SLAB   ; GPL - Smart Lab Processing ;4/15/12  17:05
 "RTN","C0SLAB",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SLAB",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SLAB",4,0)
@@ -1999,7 +2027,7 @@ SAMPLE ; import sample lab tests to the triplestore
 "RTN","C0SMART",1,0)
 C0SMART   ; GPL - Smart Container Entry Points;2/22/12  17:05
 "RTN","C0SMART",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SMART",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SMART",4,0)
@@ -2113,7 +2141,7 @@ EN(ZRTN,ZPATID,ZTYP,ZFORM,DEBUG) ; return a Smart RDF file section ZTYP
 "RTN","C0SMED",1,0)
 C0SMED   ; GPL - Smart Meds Processing ;2/22/12  17:05
 "RTN","C0SMED",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SMED",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SMED",4,0)
@@ -2429,7 +2457,7 @@ NISTMAP(ZRXN) ; EXTRINSIC WHICH MAPS SOME RXNORM NUMBERS TO
 "RTN","C0SMXMLB",1,0)
 MXMLBLD ;;ISF/RWF - Tool to build XML ;07/09/09  16:55 - Smart Container Ver.
 "RTN","C0SMXMLB",2,0)
- ;;8.0;KERNEL;;;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SMXMLB",3,0)
  QUIT
 "RTN","C0SMXMLB",4,0)
@@ -2643,7 +2671,7 @@ INDENT() ;Renturn indent level
 "RTN","C0SNHIN",1,0)
 C0SNHIN   ; GPL - Smart Container - OUTPUT OF NHINV ROUTINES;6/3/11  17:05
 "RTN","C0SNHIN",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SNHIN",3,0)
  ;Copyright 2011-2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SNHIN",4,0)
@@ -3293,7 +3321,7 @@ MNARY(ZRTN,ZHANDLE,ZOID) ; MAKE A NHIN ARRAY FROM A DOM NODE
 "RTN","C0SNHINV",1,0)
 C0SNHINV ;SLC/MKB - Serve VistA data as XML via RPC - Smart Container Version
 "RTN","C0SNHINV",2,0)
- ;;1.0;C0S;**1**;Oct 25, 2010;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SNHINV",3,0)
  ;
 "RTN","C0SNHINV",4,0)
@@ -3531,7 +3559,7 @@ VUID(IEN,FILE) ; -- Return VUID for item
 "RTN","C0SPROB",1,0)
 C0SPROB   ; GPL - Smart Problem Processing ;5/01/12  17:05
 "RTN","C0SPROB",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SPROB",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SPROB",4,0)
@@ -4179,7 +4207,7 @@ PROB(GRTN,C0SARY) ; GRTN, passed by reference,
 "RTN","C0SPROB2",1,0)
 C0SPROB   ; GPL - Smart Problem Processing ;5/01/12  17:05
 "RTN","C0SPROB2",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SPROB2",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SPROB2",4,0)
@@ -4867,7 +4895,7 @@ SNOMED(ZICD) ; extrinsic which returns SNOMED code given an ICD9 code
 "RTN","C0STBL",1,0)
 C0STBL   ; GPL - Smart Container CREATE A TABLE OF NHINV VALUES;2/22/12  17:05
 "RTN","C0STBL",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0STBL",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0STBL",4,0)
@@ -4977,7 +5005,7 @@ LOADHACK ;
 "RTN","C0SUTIL",1,0)
 C0SUTIL   ; GPL - Smart Processing Utilities ;2/22/12  17:05
 "RTN","C0SUTIL",2,0)
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SUTIL",3,0)
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SUTIL",4,0)
@@ -5043,11 +5071,11 @@ SPDATE(ZDATE) ; extrinsic which returns the Smart date format yyyy-mm-dd
 "RTN","C0SUTIL",34,0)
  ;
 "RTN","C0SXPATH")
-0^13^B521212541
+0^13^B521283143
 "RTN","C0SXPATH",1,0)
- C0SXPATH   ; CCDCCR/GPL - XPATH XML manipulation utilities; 6/1/08
+C0SXPATH   ; CCDCCR/GPL - XPATH XML manipulation utilities; 6/1/08 ; 9/26/12 10:45am
 "RTN","C0SXPATH",2,0)
- ;;1.0;C0S;;May 19, 2009;Build 2
+ ;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
 "RTN","C0SXPATH",3,0)
  ;Copyright 2008-2012 George Lilly.  Licensed under the terms of the GNU
 "RTN","C0SXPATH",4,0)
