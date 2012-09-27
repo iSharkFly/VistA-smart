@@ -1,0 +1,44 @@
+nodeID:322421093^dcterms:title^Diabetes Mellitus without mention of Complication, type II or unspecified type,
+nodeID:322421093^rdf:type^sp:CodedValue
+nodeID:322421093^sp:code^snomed:443694000
+nodeID:521484640^dcterms:title^Essential Hypertension
+nodeID:521484640^rdf:type^sp:CodedValue
+nodeID:521484640^sp:code^snomed:59621000
+nodeID:540863376^dcterms:title^Other and unspecified hyperlipidemia
+nodeID:540863376^rdf:type^sp:CodedValue
+nodeID:540863376^sp:code^snomed:55822004
+nodeID:733217502^dcterms:title^Coronary Atherosclerosis of Native Coronary Vessel
+nodeID:733217502^rdf:type^sp:CodedValue
+nodeID:733217502^sp:code^snomed:233817007
+snomed:233817007^dcterms:identifier^233817007
+snomed:233817007^dcterms:title^Coronary Atherosclerosis of Native Coronary Vessel
+snomed:233817007^rdf:type^sp:Code
+snomed:233817007^sp:system^http://purl.bioontology.org/ontology/SNOMEDCT
+snomed:443694000^dcterms:identifier^443694000
+snomed:443694000^dcterms:title^Diabetes Mellitus without mention of Complication, type II or unspecified type,
+snomed:443694000^rdf:type^sp:Code
+snomed:443694000^sp:system^http://purl.bioontology.org/ontology/SNOMEDCT
+snomed:55822004^dcterms:identifier^55822004
+snomed:55822004^dcterms:title^Other and unspecified hyperlipidemia
+snomed:55822004^rdf:type^sp:Code
+snomed:55822004^sp:system^http://purl.bioontology.org/ontology/SNOMEDCT
+snomed:59621000^dcterms:identifier^59621000
+snomed:59621000^dcterms:title^Essential Hypertension
+snomed:59621000^rdf:type^sp:Code
+snomed:59621000^sp:system^http://purl.bioontology.org/ontology/SNOMEDCT
+vistaSmart:32/problems/10615684156984147^rdf:type^sp:Problem
+vistaSmart:32/problems/10615684156984147^sp:belongsTo^vistaSmart:32/problems
+vistaSmart:32/problems/10615684156984147^sp:problemName^nodeID:733217502
+vistaSmart:32/problems/10615684156984147^sp:startDate^2011-06-24
+vistaSmart:32/problems/31242565042232200^rdf:type^sp:Problem
+vistaSmart:32/problems/31242565042232200^sp:belongsTo^vistaSmart:32/problems
+vistaSmart:32/problems/31242565042232200^sp:problemName^nodeID:540863376
+vistaSmart:32/problems/31242565042232200^sp:startDate^2011-06-24
+vistaSmart:32/problems/66251106326332453^rdf:type^sp:Problem
+vistaSmart:32/problems/66251106326332453^sp:belongsTo^vistaSmart:32/problems
+vistaSmart:32/problems/66251106326332453^sp:problemName^nodeID:521484640
+vistaSmart:32/problems/66251106326332453^sp:startDate^2011-05-05
+vistaSmart:32/problems/76280003527800514^rdf:type^sp:Problem
+vistaSmart:32/problems/76280003527800514^sp:belongsTo^vistaSmart:32/problems
+vistaSmart:32/problems/76280003527800514^sp:problemName^nodeID:322421093
+vistaSmart:32/problems/76280003527800514^sp:startDate^2011-05-05

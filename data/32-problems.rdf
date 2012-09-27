@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="iDPsDPss163430217">
+<title xmlns="http://purl.org/dc/terms/">Essential Hypertension</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/59621000"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss415968161">
+<title xmlns="http://purl.org/dc/terms/">Diabetes Mellitus without mention of Complication, type II or unspecified type,</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/443694000"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss782573457">
+<title xmlns="http://purl.org/dc/terms/">Coronary Atherosclerosis of Native Coronary Vessel</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/233817007"/>
+</rdf:Description>
+<rdf:Description rdf:nodeID="iDPsDPss982120930">
+<title xmlns="http://purl.org/dc/terms/">Other and unspecified hyperlipidemia</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+<code xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/55822004"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/SNOMEDCT/233817007">
+<identifier xmlns="http://purl.org/dc/terms/">233817007</identifier>
+<title xmlns="http://purl.org/dc/terms/">Coronary Atherosclerosis of Native Coronary Vessel</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/SNOMEDCT/443694000">
+<identifier xmlns="http://purl.org/dc/terms/">443694000</identifier>
+<title xmlns="http://purl.org/dc/terms/">Diabetes Mellitus without mention of Complication, type II or unspecified type,</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/SNOMEDCT/55822004">
+<identifier xmlns="http://purl.org/dc/terms/">55822004</identifier>
+<title xmlns="http://purl.org/dc/terms/">Other and unspecified hyperlipidemia</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/SNOMEDCT/59621000">
+<identifier xmlns="http://purl.org/dc/terms/">59621000</identifier>
+<title xmlns="http://purl.org/dc/terms/">Essential Hypertension</title>
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+<system xmlns="http://smartplatforms.org/terms#" rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT"/>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/32/problems/64819214446430644">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Problem"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/32/problems"/>
+<problemName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss163430217"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2011-05-05</startDate>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/32/problems/66129578201842218">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Problem"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/32/problems"/>
+<problemName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss415968161"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2011-05-05</startDate>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/32/problems/83941170608484934">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Problem"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/32/problems"/>
+<problemName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss982120930"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2011-06-24</startDate>
+</rdf:Description>
+<rdf:Description rdf:about="https://smart2.vistaewd.net/vista/smart/records/32/problems/99015174911688942">
+<rdf:type rdf:resource="http://smartplatforms.org/terms#Problem"/>
+<belongsTo xmlns="http://smartplatforms.org/terms#" rdf:resource="https://smart2.vistaewd.net/vista/smart/records/32/problems"/>
+<problemName xmlns="http://smartplatforms.org/terms#" rdf:nodeID="iDPsDPss782573457"/>
+<startDate xmlns="http://smartplatforms.org/terms#">2011-06-24</startDate>
+</rdf:Description>
+</rdf:RDF>
