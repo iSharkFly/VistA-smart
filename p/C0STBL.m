@@ -1,5 +1,5 @@
-C0STBL   ; GPL - Smart Container CREATE A TABLE OF NHINV VALUES;2/22/12  17:05
- ;;0.1;C0S;nopatch;noreleasedate;Build 2
+C0STBL	  ; GPL - Smart Container CREATE A TABLE OF NHINV VALUES;2/22/12  17:05
+	;;1.0;VISTA SMART CONTAINER;;Sep 26, 2012;Build 4
  ;Copyright 2012 George Lilly.  Licensed under the terms of the GNU
  ;General Public License See attached copy of the License.
  ;
